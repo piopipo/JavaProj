@@ -3,6 +3,8 @@ package prelim;
 
 public class proj1 {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        int a = 10;
+        int b = 20;
+        System.out.println("Sum is:" + (a+b));
 }
 }
